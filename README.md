@@ -6,7 +6,9 @@ Here, we provide the R file that calls all of the functions that were used to pr
 ## Data
 
 A sample data set is provided in the `Data` folder.
+
 Run the following R code to load the data set.
+
 load("sampleData.RData)
 
 ## Analysis
