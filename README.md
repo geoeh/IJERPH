@@ -11,7 +11,7 @@ load("sampleData.RData)
 
 ## Analysis
 
-Run the following R code to the console to replicate the analysis.
+Run the following R code to replicate the analysis.
 
 load("analysis.R")
 
