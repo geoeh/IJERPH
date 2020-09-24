@@ -1,7 +1,7 @@
 # IJERPH paper
 
 This repository contains the source code of the paper titled "", submitted to International Journal of Environmental Research and Public Health (IJERPH).
-Here, we provide the R file that calls all of the functions that were used to produce all of tables, graphs, and statistical analysis results of the paper.
+Here, we provide the R file that calls all of the functions that were used to produce the tables, graphs, and statistical analysis results of the paper.
 
 ## Data
 
